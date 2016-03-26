@@ -1,3 +1,32 @@
 * {
   box-sizing: border-box;
 }
+
+.intro{
+
+  width: 600px;
+  height: 400px;
+
+  margin: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header{
+  background: green;
+
+  width: 250px;
+  height: 40px;
+
+  margin-bottom: 20px;
+}
+
+.paragraph{
+  background: rgb(80, 152, 77);
+
+  width: 450px;
+  height: 100px;
+}
