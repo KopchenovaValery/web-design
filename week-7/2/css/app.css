@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+.intro {
+  background: rgb(196, 231, 154);
+
+  width: 600px;
+
+  margin: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header {
+  background: rgb(41, 77, 0);
+
+  width: 150px;
+  height: 30px;
+
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+
+.paragraph {
+  background: rgb(148, 193, 96);
+
+  width: 400px;
+  height: 50px;
+}
+
+.items {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.item {
+  display: inline-block;
+
+  background: rgb(71, 116, 19);
+
+  width: 100px;
+  height: 100px;
+
+  margin: 30px;
+}

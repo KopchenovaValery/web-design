@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.intro {
+  background: rgb(196, 231, 154);
+
+  width: 600px;
+  height: 400px;
+
+  margin: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header {
+  background: rgb(41, 77, 0);
+
+  width: 250px;
+  height: 40px;
+
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  background: rgb(148, 193, 96);
+
+  width: 450px;
+  height: 100px;
+}
