@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 .main {
   width: 500px;
@@ -65,3 +66,5 @@
   flex-grow: 1;
   margin-right: 0;
 }
+=======
+>>>>>>> origin/master
