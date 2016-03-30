@@ -2,12 +2,8 @@
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 .intro {
   background: rgb(196, 231, 154);
-=======
-.intro{
->>>>>>> origin/master
 
   width: 600px;
   height: 400px;
@@ -20,13 +16,8 @@
   flex-direction: column;
 }
 
-<<<<<<< HEAD
 .header {
   background: rgb(41, 77, 0);
-=======
-.header{
-  background: green;
->>>>>>> origin/master
 
   width: 250px;
   height: 40px;
@@ -34,13 +25,8 @@
   margin-bottom: 20px;
 }
 
-<<<<<<< HEAD
 .paragraph {
   background: rgb(148, 193, 96);
-=======
-.paragraph{
-  background: rgb(80, 152, 77);
->>>>>>> origin/master
 
   width: 450px;
   height: 100px;

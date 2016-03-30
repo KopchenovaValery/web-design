@@ -2,11 +2,7 @@
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 .intro {
-=======
-.intro{
->>>>>>> origin/master
   background: rgb(196, 231, 154);
 
   width: 600px;
@@ -19,11 +15,7 @@
   flex-direction: column;
 }
 
-<<<<<<< HEAD
 .header {
-=======
-.header{
->>>>>>> origin/master
   background: rgb(41, 77, 0);
 
   width: 150px;
@@ -33,31 +25,19 @@
   margin-top: 50px;
 }
 
-<<<<<<< HEAD
 .paragraph {
-=======
-.paragraph{
->>>>>>> origin/master
   background: rgb(148, 193, 96);
 
   width: 400px;
   height: 50px;
 }
 
-<<<<<<< HEAD
 .items {
-=======
-.items{
->>>>>>> origin/master
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-<<<<<<< HEAD
 .item {
-=======
-.item{
->>>>>>> origin/master
   display: inline-block;
 
   background: rgb(71, 116, 19);

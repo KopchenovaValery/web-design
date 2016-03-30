@@ -2,13 +2,8 @@
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 .item {
   background: rgb(196, 231, 154);
-=======
-.item{
-  background: rgb(96, 231, 154);
->>>>>>> origin/master
 
   width: 300px;
   height: 300px;
@@ -17,22 +12,14 @@
   position: relative;
 }
 
-<<<<<<< HEAD
 .text {
-=======
-.text{
->>>>>>> origin/master
   position: absolute;
   bottom: 50px;
 
   padding-left: 20px;
 }
 
-<<<<<<< HEAD
 .header {
-=======
-.header{
->>>>>>> origin/master
   background: rgb(41, 77, 0);
 
   width: 150px;
@@ -41,11 +28,7 @@
   margin-bottom: 20px;
 }
 
-<<<<<<< HEAD
 .paragraph {
-=======
-.paragraph{
->>>>>>> origin/master
   background: rgb(148, 193, 96);
 
   width: 200px;
