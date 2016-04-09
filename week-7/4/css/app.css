@@ -2,19 +2,32 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 .main {
-  width: 500px;
+  height: 100%;
 
   background: rgb(196, 231, 154);
 
-  margin: 20px;
   padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main > div {
+  width: 100%;
+  max-width: 1000px;
 }
 
 .navbar {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
 
   padding-bottom: 20px;
 }
@@ -24,10 +37,6 @@
   height: 40px;
 
   background: rgb(71, 116, 19);
-}
-
-.menu {
-  margin-left: 280px;
 }
 
 .menu-item {
@@ -85,4 +94,10 @@
 .secondary-item:last-child {
   flex-grow: 1;
   margin-right: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .primary-item {
+    display: none;
+  }
 }
